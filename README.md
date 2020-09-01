@@ -1,4 +1,4 @@
-# neural_network_imagin_experiments
+# neural_network_imaging_experiments
 This repository contains and details some experiments I have done. 
 
 The basic idea of these projects are to train a neural network to output a certain image based on some input format and then seeing what outputs we get if we ask the nerual net to produce the image for an input value not in it's training set. 
