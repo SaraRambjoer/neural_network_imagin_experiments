@@ -17,3 +17,15 @@ The files with "filename" in them are the outputs given by the neural network du
 The "sample" folders show some of the output images that I liked the most. 
 
 If we consider what function we are trying to approximate we see that we are essentially trying to make the neural network learn a look-up table of pixel values. Indeed, if we change the network structure to having merely two layers, one with the 8 input nodes and one with 110x110 output nodes the neural network quickly converges to far lower error values than with the tested deeper network structure. Interestingly, the output images in this case are also interesting visually. This is not due to some interesting "thinking" in the neural network, but rather that a sigmoid function called on a sum of pixel values can produce interesting outputs. (see v.0.1.7)
+
+
+0.1.6:
+[Sample of one of the outputs that the 0.1.6 was trained on](0.1.6/00010000.png)
+0.1.6.1:
+[Sample of one of the outputs that 0.1.6.1 was trained on, same source as above](0.1.6/00010000.png)
+Original:
+[Original version of the same image](Training input/00010000.png)
+0.1.7:
+[0.1.7 output for same image](0.1.7/00010000.png)
+
+
