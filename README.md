@@ -20,12 +20,12 @@ If we consider what function we are trying to approximate we see that we are ess
 
 
 0.1.6:
-[Sample of one of the outputs that the 0.1.6 was trained on](0.1.6/00010000.png)
+[Sample of one of the outputs that the 0.1.6 was trained on](0.1.6_samples/00010000.png)
 0.1.6.1:
-[Sample of one of the outputs that 0.1.6.1 was trained on, same source as above](0.1.6/00010000.png)
+[Sample of one of the outputs that 0.1.6.1 was trained on, same source as above](0.1.6_samples/00010000.png)
 Original:
 [Original version of the same image](Training input/00010000.png)
 0.1.7:
-[0.1.7 output for same image](0.1.7/00010000.png)
+[0.1.7 output for same image](0.1.7_samples/00010000.png)
 
 
